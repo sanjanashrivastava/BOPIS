@@ -1,6 +1,10 @@
-# ORDERS PAGE
+ORDERS PAGE
 
-### Open Tab
+# Orders
+The Orders page can be accessed by clicking on the `Orders` button on the bottom tab of the BOPIS app. It displays a list of all the orders currently assigned to the facility for store pickup from the e-commerce platform, and it can be used to search, view and fulfill orders.
+
+
+Open Tab
 
 All BOPIS orders that have been received and need to be fulfilled are displayed in the `Open` tab on Orders page. Users can also use the `Search` bar on this page to find open orders using customer name, product name, or order ID. The list of orders is available on this page along with some key attributes of the orders. 
 
@@ -12,7 +16,7 @@ All BOPIS orders that have been received and need to be fulfilled are displayed 
 {% hint style="info" %} Marking an order `Ready for Pickup` triggers an email to the customer that their order is ready for pickup and these orders are moved to the `Packed` tab. {% endhint %}
 
 
-### Packed Tab
+Packed Tab
 
 All orders that are packed and ready to be handed over to customers are displayed on the `Packed` tab on Orders page. Users can also use the `Search` bar on this page to find packed orders using customer name, product name, or order ID. Some key attributes on the order cards available on this page are listed below. 
 
@@ -24,6 +28,8 @@ Stock information, order timeline, and handling instructions are also visible on
 
 {% hint style="info" %} After clicking the `Handover` button, the orders are marked completed and moved to `Completed` tab. {% endhint %}
 
-### Completed Tab
+
+Completed Tab
 
 Completed BOPIS orders can be accessed from the `Completed` tab available on Orders page. All successfully completed orders that have been handed over to customers in past 24 hours can be viewed here along with the customer’s name, order ID and list of product(s) in the order. Users can also use the `Search` bar on this page to find completed orders using customer name, product name, or order ID.
+
